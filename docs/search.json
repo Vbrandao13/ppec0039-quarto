@@ -1,94 +1,94 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Início",
+    "objectID": "resultados.html",
+    "href": "resultados.html",
+    "title": "Resultados",
     "section": "",
-    "text": "Engenheiro Agrimensor, Analista de Sistemas e mestrando em Engenharia Civil pela UFBA, com atuação em geoprocessamento, infraestrutura de transportes, análise espacial e aplicações estatísticas com Python.\n\nVer Notebooks Resultados Sobre o Autor"
+    "text": "Esta página apresenta uma síntese dos principais resultados desenvolvidos nos notebooks da disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\n\n\n\nFoi aplicado um teste de hipótese para avaliar se o tempo médio de deslocamento observado em uma rede de transporte era superior ao tempo planejado.\nResultado principal:\nA análise permitiu comparar o tempo médio observado com o valor de referência estabelecido no planejamento.\n\n\n\nFoi utilizada a distribuição normal para analisar o comportamento dos tempos de viagem.\nResultado principal:\nO notebook permitiu calcular probabilidades associadas ao tempo de viagem e visualizar a curva normal com área de probabilidade destacada.\n\n\n\nFoi realizada uma aplicação de amostragem ao transporte público urbano, comparando população simulada, amostra aleatória simples e amostra estratificada.\nResultado principal:\nA amostragem permitiu estimar indicadores de tempo de viagem e lotação com base em uma parte representativa da população.\n\n\n\nFoi aplicada a Análise de Variância para comparar médias entre diferentes grupos.\nResultado principal:\nA ANOVA permitiu verificar se existiam diferenças estatisticamente significativas entre os grupos analisados.\n\n\n\n\nOs resultados demonstram que a estatística aplicada pode apoiar análises relacionadas à Engenharia de Transportes, permitindo comparar cenários, avaliar tempos médios de deslocamento, interpretar distribuições de dados, estimar indicadores por amostragem e verificar diferenças entre grupos.\nA utilização de Python e notebooks contribuiu para tornar as análises mais organizadas, reprodutíveis e visualmente compreensíveis.\n\n\n\nA construção dos notebooks possibilitou integrar teoria estatística, programação em Python e problemas aplicados à área de transportes. Essa integração fortalece a capacidade de análise crítica, interpretação de dados e comunicação de resultados técnicos em ambiente acadêmico e profissional."
   },
   {
-    "objectID": "index.html#vagner-s.-b.-brandão",
-    "href": "index.html#vagner-s.-b.-brandão",
-    "title": "Página Inicial",
+    "objectID": "resultados.html#interpretação-geral",
+    "href": "resultados.html#interpretação-geral",
+    "title": "Resultados",
     "section": "",
-    "text": "Analista de Sistemas\nEngenheiro Agrimensor\nMestrando em Engenharia Civil – Universidade Federal da Bahia (UFBA)\n\n\n\nEste site reúne os trabalhos desenvolvidos durante a disciplina PPEC0039 – Estatística e Planejamento de Experimentos, utilizando Python, Quarto, GitHub e Google Colab.\nAqui estão organizados os notebooks, análises estatísticas, gráficos e resultados produzidos ao longo da disciplina."
+    "text": "Os resultados demonstram que a estatística aplicada pode apoiar análises relacionadas à Engenharia de Transportes, permitindo comparar cenários, avaliar tempos médios de deslocamento, interpretar distribuições de dados, estimar indicadores por amostragem e verificar diferenças entre grupos.\nA utilização de Python e notebooks contribuiu para tornar as análises mais organizadas, reprodutíveis e visualmente compreensíveis."
   },
   {
-    "objectID": "index.html#apresentação",
-    "href": "index.html#apresentação",
-    "title": "PPEC0039 - Estatística e Planejamento de Experimentos",
+    "objectID": "resultados.html#contribuição-para-a-formação-acadêmica",
+    "href": "resultados.html#contribuição-para-a-formação-acadêmica",
+    "title": "Resultados",
     "section": "",
-    "text": "Bem-vindo ao meu portfólio desenvolvido na disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\nNeste site apresento os notebooks desenvolvidos durante a disciplina, aplicações utilizando Python, análises estatísticas e estudos voltados para Engenharia Transportes e Ciência de Dados."
+    "text": "A construção dos notebooks possibilitou integrar teoria estatística, programação em Python e problemas aplicados à área de transportes. Essa integração fortalece a capacidade de análise crítica, interpretação de dados e comunicação de resultados técnicos em ambiente acadêmico e profissional."
   },
   {
-    "objectID": "index.html#objetivos",
-    "href": "index.html#objetivos",
-    "title": "PPEC0039 - Estatística e Planejamento de Experimentos",
+    "objectID": "notebooks.html",
+    "href": "notebooks.html",
+    "title": "Notebooks",
     "section": "",
-    "text": "Aplicar conceitos estatísticos utilizando Python;\nDesenvolver notebooks científicos;\nPublicar projetos utilizando Quarto;\nIntegrar GitHub e Google Colab;\nOrganizar um portfólio acadêmico."
+    "text": "Esta página reúne os notebooks produzidos durante a disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\n\n\n\nAplicação de teste de hipótese para avaliação do tempo médio de deslocamento em uma rede de transporte.\nGitHub\nGoogle Colab\n\n\n\nAplicação da distribuição normal para análise de tempo de viagem em sistemas de transporte.\nGitHub\nGoogle Colab\n\n\n\nAplicação de técnicas de amostragem ao transporte público urbano.\nGitHub\nGoogle Colab\n\n\n\nAplicação da Análise de Variância para comparação entre grupos.\nGitHub\nGoogle Colab\n\n\n\n\nOs notebooks demonstram a aplicação prática da estatística com Python, conectando os conceitos da disciplina a problemas da Engenharia de Transportes, mobilidade urbana e análise de dados."
   },
   {
-    "objectID": "index.html#navegação",
-    "href": "index.html#navegação",
-    "title": "PPEC0039 - Estatística e Planejamento de Experimentos",
+    "objectID": "notebooks.html#síntese",
+    "href": "notebooks.html#síntese",
+    "title": "Notebooks",
     "section": "",
-    "text": "Utilize o menu superior para acessar:\n\nSobre\nDisciplina\nNotebooks\nResultados\nGaleria\nContato"
+    "text": "Os notebooks demonstram a aplicação prática da estatística com Python, conectando os conceitos da disciplina a problemas da Engenharia de Transportes, mobilidade urbana e análise de dados."
   },
   {
-    "objectID": "index.html#competências-desenvolvidas",
-    "href": "index.html#competências-desenvolvidas",
-    "title": "Página Inicial",
+    "objectID": "galeria.html",
+    "href": "galeria.html",
+    "title": "Galeria",
     "section": "",
-    "text": "Python\nEstatística Aplicada\nAmostragem\nDistribuição Normal\nZ-Score\nANOVA\nGit e GitHub\nGoogle Colab\nQuarto\nVisualização de Dados"
+    "text": "Galeria científica\nEsta galeria apresenta os principais produtos visuais desenvolvidos nos notebooks da disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\n\n\n\n\n\nAula 03 — Testes de Hipóteses\n\n\nAplicação de teste estatístico para avaliar o tempo médio de deslocamento em uma rede de transporte.\n\nVer notebook\n\n\n\n\n\n\nAula 04 — Distribuição Normal\n\n\nRepresentação da curva normal aplicada à análise da variabilidade dos tempos de viagem.\n\nVer notebook\n\n\n\n\n\n\nAula 09 — Amostragem\n\n\nComparação entre população, amostra aleatória simples e amostragem estratificada no transporte público.\n\nVer notebook\n\n\n\n\n\n\nAula 14 — ANOVA\n\n\nAplicação da análise de variância para comparação estatística entre grupos.\n\nVer notebook"
   },
   {
-    "objectID": "index.html#objetivo-deste-portfólio",
-    "href": "index.html#objetivo-deste-portfólio",
-    "title": "Página Inicial",
+    "objectID": "contato.html",
+    "href": "contato.html",
+    "title": "Contato",
     "section": "",
-    "text": "Este portfólio tem como objetivo documentar o desenvolvimento das atividades da disciplina, apresentando de forma organizada os notebooks, resultados obtidos e aplicações da Estatística na Engenharia Civil e nos Transportes."
+    "text": "Entre em contato para discussões acadêmicas, pesquisas, desenvolvimento de projetos e colaborações nas áreas de Engenharia de Transportes, Geoprocessamento, Ciência de Dados, Estatística Aplicada e Inteligência Artificial.\n\n\n\nvagnerbrandaogeografia@gmail.com\nCanal principal para contato acadêmico e profissional.\n\n\n\n(71) 98844-6919\nDisponível para contatos profissionais e oportunidades de pesquisa.\n\n\n\n\nEngenheiro Agrimensor\nAnalista de Sistemas\nMestrando em Engenharia Civil – UFBA\n\nAtuação em Engenharia de Transportes, Geoprocessamento, Ciência de Dados, Estatística Aplicada e Inteligência Artificial.\n\n\n\nSalvador – Bahia – Brasil\nDisponível para pesquisas, projetos e cooperação acadêmica.\n\n\n\n\n\nEngenharia de Transportes\nGeoprocessamento\nGeotecnologias\nSistemas de Informação Geográfica (SIG)\nEnergias Renováveis\nCiência de Dados\nInteligência Artificial\nMachine Learning\nPython\nQGIS\nArcGis\n\n\n\n\nEste portfólio foi desenvolvido como atividade da disciplina PPEC0039 – Estatística e Planejamento de Experimentos, reunindo notebooks, aplicações em Python, análises estatísticas e resultados voltados à Engenharia de Transportes.\nSeu objetivo é apresentar, de forma organizada e reprodutível, todos os produtos desenvolvidos durante a disciplina.\n\n\n\n 📧 E-mail \n 📱 Telefone \n 💻 GitHub \n 📓 Google Colab \n 💼 LinkedIn \n 🎓 Currículo Lattes"
   },
   {
-    "objectID": "index.html#navegue-pelo-site",
-    "href": "index.html#navegue-pelo-site",
-    "title": "Página Inicial",
+    "objectID": "contato.html#e-mail",
+    "href": "contato.html#e-mail",
+    "title": "Contato",
     "section": "",
-    "text": "Utilize o menu superior para acessar:\n\nSobre\nDisciplina\nNotebooks\nResultados\nGaleria\nContato"
+    "text": "vagnerbrandaogeografia@gmail.com\nCanal principal para contato acadêmico e profissional."
   },
   {
-    "objectID": "index.html#estatística-aplicada-transportes-e-ciência-de-dados.",
-    "href": "index.html#estatística-aplicada-transportes-e-ciência-de-dados.",
-    "title": "Início",
+    "objectID": "contato.html#telefone",
+    "href": "contato.html#telefone",
+    "title": "Contato",
     "section": "",
-    "text": "Engenheiro Agrimensor, Analista de Sistemas e mestrando em Engenharia Civil pela UFBA, com atuação em geoprocessamento, infraestrutura de transportes, análise espacial e aplicações estatísticas com Python.\n\nVer Notebooks Resultados Sobre o Autor"
+    "text": "(71) 98844-6919\nDisponível para contatos profissionais e oportunidades de pesquisa."
   },
   {
-    "objectID": "index.html#sobre-este-portfólio",
-    "href": "index.html#sobre-este-portfólio",
-    "title": "Início",
-    "section": "Sobre este portfólio",
-    "text": "Sobre este portfólio\nEste site foi desenvolvido como atividade final da disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\nO objetivo é apresentar, de forma organizada e visualmente clara, os notebooks, análises estatísticas, gráficos e resultados produzidos durante a disciplina, conectando Estatística Aplicada, Engenharia de Transportes e Ciência de Dados."
-  },
-  {
-    "objectID": "index.html#eixos-trabalhados",
-    "href": "index.html#eixos-trabalhados",
-    "title": "Início",
-    "section": "Eixos trabalhados",
-    "text": "Eixos trabalhados\n\n\nEstatística Aplicada\nDistribuição normal, amostragem, Z-score, ANOVA e interpretação de resultados.\n\n\nPython, GitHub e Google Colab\nDesenvolvimento de notebooks reprodutíveis com código, análise e visualização de dados.\n\n\nTransportes\nAplicação dos conceitos estatísticos em problemas de tempo de viagem, mobilidade urbana e transporte público.\n\n\nPublicação Científica\nOrganização dos resultados com Quarto, GitHub, Google Colab e GitHub Pages.\n\n\nProdução da disciplina\nNeste portfólio estão reunidos os principais produtos desenvolvidos ao longo da disciplina: notebooks em Python, gráficos estatísticos, interpretações dos resultados, links para GitHub e Google Colab, além da organização final em uma página publicada com Quarto."
-  },
-  {
-    "objectID": "index.html#produção-da-disciplina",
-    "href": "index.html#produção-da-disciplina",
-    "title": "Início",
-    "section": "Produção da disciplina",
-    "text": "Produção da disciplina\nNeste portfólio estão reunidos os principais produtos desenvolvidos ao longo da disciplina: notebooks em Python, gráficos estatísticos, interpretações dos resultados, links para GitHub e Google Colab, além da organização final em uma página publicada com Quarto."
-  },
-  {
-    "objectID": "index.html#estatística-aplicada-transportes-e-ciência-de-dados",
-    "href": "index.html#estatística-aplicada-transportes-e-ciência-de-dados",
-    "title": "Início",
+    "objectID": "contato.html#formação",
+    "href": "contato.html#formação",
+    "title": "Contato",
     "section": "",
-    "text": "Engenheiro Agrimensor, Analista de Sistemas e mestrando em Engenharia Civil pela UFBA, com atuação em geoprocessamento, infraestrutura de transportes, análise espacial e aplicações estatísticas com Python.\n\nVer Notebooks Resultados Sobre o Autor"
+    "text": "Engenheiro Agrimensor\nAnalista de Sistemas\nMestrando em Engenharia Civil – UFBA\n\nAtuação em Engenharia de Transportes, Geoprocessamento, Ciência de Dados, Estatística Aplicada e Inteligência Artificial."
+  },
+  {
+    "objectID": "contato.html#localização",
+    "href": "contato.html#localização",
+    "title": "Contato",
+    "section": "",
+    "text": "Salvador – Bahia – Brasil\nDisponível para pesquisas, projetos e cooperação acadêmica."
+  },
+  {
+    "objectID": "contato.html#áreas-de-interesse",
+    "href": "contato.html#áreas-de-interesse",
+    "title": "Contato",
+    "section": "",
+    "text": "Engenharia de Transportes\nGeoprocessamento\nGeotecnologias\nSistemas de Informação Geográfica (SIG)\nEnergias Renováveis\nCiência de Dados\nInteligência Artificial\nMachine Learning\nPython\nQGIS\nArcGis"
+  },
+  {
+    "objectID": "contato.html#sobre-este-portfólio",
+    "href": "contato.html#sobre-este-portfólio",
+    "title": "Contato",
+    "section": "",
+    "text": "Este portfólio foi desenvolvido como atividade da disciplina PPEC0039 – Estatística e Planejamento de Experimentos, reunindo notebooks, aplicações em Python, análises estatísticas e resultados voltados à Engenharia de Transportes.\nSeu objetivo é apresentar, de forma organizada e reprodutível, todos os produtos desenvolvidos durante a disciplina."
   },
   {
     "objectID": "about.html",
@@ -96,20 +96,6 @@
     "title": "Sobre",
     "section": "",
     "text": "Engenheiro Agrimensor | Analista de Sistemas | Mestrando em Engenharia Civil – UFBA\nSou Engenheiro Agrimensor, Analista de Sistemas e Mestrando em Engenharia Civil pela Universidade Federal da Bahia (UFBA), com atuação em geoprocessamento, infraestrutura de transportes, análise espacial e aplicações estatísticas utilizando Python.\nPossuo experiência nas áreas pública e privada, desenvolvendo soluções voltadas para análise espacial, infraestrutura viária, sistemas de informação, suporte à tomada de decisão e desenvolvimento de aplicações.\nNo âmbito acadêmico, atuo junto ao CETRAM/UFBA, desenvolvendo pesquisas relacionadas à Ciência de Dados, Inteligência Artificial, GeoIA, Transportes, Estatística Aplicada e Geoprocessamento."
-  },
-  {
-    "objectID": "about.html#sobre-o-autor",
-    "href": "about.html#sobre-o-autor",
-    "title": "Sobre",
-    "section": "",
-    "text": "Engenheiro Agrimensor\nAnalista de Sistemas\nMestrando em Engenharia Civil – UFBA\n\n\n\n\nSou Engenheiro Agrimensor, Analista de Sistemas e Mestrando em Engenharia Civil pela Universidade Federal da Bahia (UFBA), com atuação em geoprocessamento, infraestrutura de transportes, análise espacial, Ciência de dados e aplicações estatísticas utilizando Python.\nPossuo experiência nas áreas pública e privada, desenvolvendo soluções voltadas para análise espacial, infraestrutura viária, sistemas de informação, suporte à tomada de decisão e desenvolvimento de aplicações.\nNo âmbito acadêmico, atuo junto ao CETRAM/UFBA, desenvolvendo pesquisas relacionadas à Ciência de Dados, Inteligência Artificial, GeoIA, Transportes, Estatística Aplicada e Geoprocessamento.\nMeu principal interesse é integrar técnicas de análise espacial, aprendizado de máquina e modelagem computacional para apoiar o planejamento territorial e a melhoria dos sistemas de transporte."
-  },
-  {
-    "objectID": "about.html#apresentação",
-    "href": "about.html#apresentação",
-    "title": "Sobre",
-    "section": "",
-    "text": "Sou Engenheiro Agrimensor, Analista de Sistemas e Mestrando em Engenharia Civil pela Universidade Federal da Bahia (UFBA), com atuação em geoprocessamento, infraestrutura de transportes, análise espacial, Ciência de dados e aplicações estatísticas utilizando Python.\nPossuo experiência nas áreas pública e privada, desenvolvendo soluções voltadas para análise espacial, infraestrutura viária, sistemas de informação, suporte à tomada de decisão e desenvolvimento de aplicações.\nNo âmbito acadêmico, atuo junto ao CETRAM/UFBA, desenvolvendo pesquisas relacionadas à Ciência de Dados, Inteligência Artificial, GeoIA, Transportes, Estatística Aplicada e Geoprocessamento.\nMeu principal interesse é integrar técnicas de análise espacial, aprendizado de máquina e modelagem computacional para apoiar o planejamento territorial e a melhoria dos sistemas de transporte."
   },
   {
     "objectID": "about.html#principais-áreas-de-atuação",
@@ -124,13 +110,6 @@
     "title": "Sobre",
     "section": "Linhas de pesquisa",
     "text": "Linhas de pesquisa\n\nAcessibilidade e mobilidade urbana;\nInfraestrutura de transportes;\nRedes de transporte;\nGeotecnologias aplicadas;\nEnergias Renováveis;\nInteligência Artificial Geoespacial;\nAprendizado de máquina aplicado aos transportes;\nPlanejamento territorial orientado por dados."
-  },
-  {
-    "objectID": "about.html#contato",
-    "href": "about.html#contato",
-    "title": "Sobre",
-    "section": "Contato",
-    "text": "Contato\nUniversidade Federal da Bahia (UFBA)\nPrograma de Pós-Graduação em Engenharia Civil\nSalvador – Bahia – Brasil"
   },
   {
     "objectID": "about.html#objetivo-profissional",
@@ -182,158 +161,39 @@
     "text": "No contexto da Engenharia de Transportes, os conteúdos da disciplina permitem analisar dados de mobilidade, tempos de viagem, acessibilidade, conectividade, desempenho operacional e qualidade dos sistemas de transporte.\nA estatística aplicada contribui para transformar dados em evidências, apoiando diagnósticos, comparações, modelagens e tomadas de decisão em estudos de infraestrutura e planejamento territorial."
   },
   {
-    "objectID": "notebooks.html",
-    "href": "notebooks.html",
-    "title": "Notebooks",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Início",
     "section": "",
-    "text": "Esta página reúne os notebooks produzidos durante a disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\n\n\n\nAplicação de teste de hipótese para avaliação do tempo médio de deslocamento em uma rede de transporte.\nGitHub\nGoogle Colab\n\n\n\nAplicação da distribuição normal para análise de tempo de viagem em sistemas de transporte.\nGitHub\nGoogle Colab\n\n\n\nAplicação de técnicas de amostragem ao transporte público urbano.\nGitHub\nGoogle Colab\n\n\n\nAplicação da Análise de Variância para comparação entre grupos.\nGitHub\nGoogle Colab\n\n\n\n\nOs notebooks demonstram a aplicação prática da estatística com Python, conectando os conceitos da disciplina a problemas da Engenharia de Transportes, mobilidade urbana e análise de dados."
+    "text": "Engenheiro Agrimensor, Analista de Sistemas e mestrando em Engenharia Civil pela UFBA, com atuação em geoprocessamento, infraestrutura de transportes, análise espacial e aplicações estatísticas com Python.\n\nVer Notebooks Resultados Sobre o Autor"
   },
   {
-    "objectID": "notebooks.html#síntese",
-    "href": "notebooks.html#síntese",
-    "title": "Notebooks",
+    "objectID": "index.html#estatística-aplicada-transportes-e-ciência-de-dados.",
+    "href": "index.html#estatística-aplicada-transportes-e-ciência-de-dados.",
+    "title": "Início",
     "section": "",
-    "text": "Os notebooks demonstram a aplicação prática da estatística com Python, conectando os conceitos da disciplina a problemas da Engenharia de Transportes, mobilidade urbana e análise de dados."
+    "text": "Engenheiro Agrimensor, Analista de Sistemas e mestrando em Engenharia Civil pela UFBA, com atuação em geoprocessamento, infraestrutura de transportes, análise espacial e aplicações estatísticas com Python.\n\nVer Notebooks Resultados Sobre o Autor"
   },
   {
-    "objectID": "resultados.html",
-    "href": "resultados.html",
-    "title": "Resultados",
-    "section": "",
-    "text": "Esta página apresenta uma síntese dos principais resultados desenvolvidos nos notebooks da disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\n\n\n\nFoi aplicado um teste de hipótese para avaliar se o tempo médio de deslocamento observado em uma rede de transporte era superior ao tempo planejado.\nResultado principal:\nA análise permitiu comparar o tempo médio observado com o valor de referência estabelecido no planejamento.\n\n\n\nFoi utilizada a distribuição normal para analisar o comportamento dos tempos de viagem.\nResultado principal:\nO notebook permitiu calcular probabilidades associadas ao tempo de viagem e visualizar a curva normal com área de probabilidade destacada.\n\n\n\nFoi realizada uma aplicação de amostragem ao transporte público urbano, comparando população simulada, amostra aleatória simples e amostra estratificada.\nResultado principal:\nA amostragem permitiu estimar indicadores de tempo de viagem e lotação com base em uma parte representativa da população.\n\n\n\nFoi aplicada a Análise de Variância para comparar médias entre diferentes grupos.\nResultado principal:\nA ANOVA permitiu verificar se existiam diferenças estatisticamente significativas entre os grupos analisados.\n\n\n\n\nOs resultados demonstram que a estatística aplicada pode apoiar análises relacionadas à Engenharia de Transportes, permitindo comparar cenários, avaliar tempos médios de deslocamento, interpretar distribuições de dados, estimar indicadores por amostragem e verificar diferenças entre grupos.\nA utilização de Python e notebooks contribuiu para tornar as análises mais organizadas, reprodutíveis e visualmente compreensíveis.\n\n\n\nA construção dos notebooks possibilitou integrar teoria estatística, programação em Python e problemas aplicados à área de transportes. Essa integração fortalece a capacidade de análise crítica, interpretação de dados e comunicação de resultados técnicos em ambiente acadêmico e profissional."
+    "objectID": "index.html#sobre-este-portfólio",
+    "href": "index.html#sobre-este-portfólio",
+    "title": "Início",
+    "section": "Sobre este portfólio",
+    "text": "Sobre este portfólio\nEste site foi desenvolvido como atividade final da disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\nO objetivo é apresentar, de forma organizada e visualmente clara, os notebooks, análises estatísticas, gráficos e resultados produzidos durante a disciplina, conectando Estatística Aplicada, Engenharia de Transportes e Ciência de Dados."
   },
   {
-    "objectID": "resultados.html#interpretação-geral",
-    "href": "resultados.html#interpretação-geral",
-    "title": "Resultados",
-    "section": "",
-    "text": "Os resultados demonstram que a estatística aplicada pode apoiar análises relacionadas à Engenharia de Transportes, permitindo comparar cenários, avaliar tempos médios de deslocamento, interpretar distribuições de dados, estimar indicadores por amostragem e verificar diferenças entre grupos.\nA utilização de Python e notebooks contribuiu para tornar as análises mais organizadas, reprodutíveis e visualmente compreensíveis."
-  },
-  {
-    "objectID": "resultados.html#contribuição-para-a-formação-acadêmica",
-    "href": "resultados.html#contribuição-para-a-formação-acadêmica",
-    "title": "Resultados",
-    "section": "",
-    "text": "A construção dos notebooks possibilitou integrar teoria estatística, programação em Python e problemas aplicados à área de transportes. Essa integração fortalece a capacidade de análise crítica, interpretação de dados e comunicação de resultados técnicos em ambiente acadêmico e profissional."
-  },
-  {
-    "objectID": "galeria.html",
-    "href": "galeria.html",
-    "title": "Galeria",
-    "section": "",
-    "text": "Galeria científica\nEsta galeria apresenta os principais produtos visuais desenvolvidos nos notebooks da disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\n\n\n\n\n\nAula 03 — Testes de Hipóteses\n\n\nAplicação de teste estatístico para avaliar o tempo médio de deslocamento em uma rede de transporte.\n\nVer notebook\n\n\n\n\n\n\nAula 04 — Distribuição Normal\n\n\nRepresentação da curva normal aplicada à análise da variabilidade dos tempos de viagem.\n\nVer notebook\n\n\n\n\n\n\nAula 09 — Amostragem\n\n\nComparação entre população, amostra aleatória simples e amostragem estratificada no transporte público.\n\nVer notebook\n\n\n\n\n\n\nAula 14 — ANOVA\n\n\nAplicação da análise de variância para comparação estatística entre grupos.\n\nVer notebook"
-  },
-  {
-    "objectID": "galeria.html#aula-03",
-    "href": "galeria.html#aula-03",
-    "title": "Galeria",
-    "section": "",
-    "text": "Nesta atividade foram desenvolvidos exemplos de aplicação de testes estatísticos para avaliação do tempo médio de deslocamento em uma rede de transportes.\n\nImagem sugerida: gráfico do teste de hipóteses."
-  },
-  {
-    "objectID": "galeria.html#aula-04",
-    "href": "galeria.html#aula-04",
-    "title": "Galeria",
-    "section": "",
-    "text": "Visualização da curva normal aplicada ao tempo de viagem, destacando probabilidades e comportamento da distribuição.\n\nImagem sugerida: gráfico da curva normal."
-  },
-  {
-    "objectID": "galeria.html#aula-09",
-    "href": "galeria.html#aula-09",
-    "title": "Galeria",
-    "section": "",
-    "text": "Comparação entre população, amostra aleatória simples e amostragem estratificada utilizando dados simulados do transporte público.\n\nImagem sugerida: tabela ou gráfico da amostragem."
-  },
-  {
-    "objectID": "galeria.html#aula-14",
-    "href": "galeria.html#aula-14",
-    "title": "Galeria",
-    "section": "",
-    "text": "Comparação entre grupos utilizando Análise de Variância (ANOVA) para identificação de diferenças estatisticamente significativas.\n\nImagem sugerida: boxplot ou gráfico comparativo."
-  },
-  {
-    "objectID": "galeria.html#objetivo-da-galeria",
-    "href": "galeria.html#objetivo-da-galeria",
-    "title": "Galeria",
-    "section": "",
-    "text": "As figuras apresentadas nesta página ilustram a aplicação prática da Estatística utilizando Python, permitindo visualizar distribuições de dados, testes estatísticos, métodos de amostragem e análises de variância voltadas à Engenharia de Transportes."
-  },
-  {
-    "objectID": "galeria.html#síntese-visual",
-    "href": "galeria.html#síntese-visual",
-    "title": "Galeria",
-    "section": "",
-    "text": "A galeria reúne os principais elementos gráficos produzidos durante a disciplina, destacando como a Estatística Aplicada pode ser utilizada para interpretar dados, comparar cenários e apoiar análises na Engenharia de Transportes."
-  },
-  {
-    "objectID": "contato.html",
-    "href": "contato.html",
-    "title": "Contato",
-    "section": "",
-    "text": "Entre em contato para discussões acadêmicas, pesquisas, desenvolvimento de projetos e colaborações nas áreas de Engenharia de Transportes, Geoprocessamento, Ciência de Dados, Estatística Aplicada e Inteligência Artificial.\n\n\n\nvagnerbrandaogeografia@gmail.com\nCanal principal para contato acadêmico e profissional.\n\n\n\n(71) 98844-6919\nDisponível para contatos profissionais e oportunidades de pesquisa.\n\n\n\n\nEngenheiro Agrimensor\nAnalista de Sistemas\nMestrando em Engenharia Civil – UFBA\n\nAtuação em Engenharia de Transportes, Geoprocessamento, Ciência de Dados, Estatística Aplicada e Inteligência Artificial.\n\n\n\nSalvador – Bahia – Brasil\nDisponível para pesquisas, projetos e cooperação acadêmica.\n\n\n\n\n\nEngenharia de Transportes\nGeoprocessamento\nSistemas de Informação Geográfica (SIG)\nEnergias Renováveis\nCiência de Dados\nInteligência Artificial\nMachine Learning\nPython\nQGIS\nArcGis\n\n\n\n\nEste portfólio foi desenvolvido como atividade da disciplina PPEC0039 – Estatística e Planejamento de Experimentos, reunindo notebooks, aplicações em Python, análises estatísticas e resultados voltados à Engenharia de Transportes.\nSeu objetivo é apresentar, de forma organizada e reprodutível, todos os produtos desenvolvidos durante a disciplina.\n\n\n\n 📧 E-mail \n 📱 Telefone \n 💻 GitHub \n 📓 Google Colab \n 💼 LinkedIn \n 🎓 Currículo Lattes"
-  },
-  {
-    "objectID": "contato.html#áreas-de-interesse",
-    "href": "contato.html#áreas-de-interesse",
-    "title": "Contato",
-    "section": "",
-    "text": "Engenharia de Transportes\nGeoprocessamento\nSistemas de Informação Geográfica (SIG)\nEnergias Renováveis\nCiência de Dados\nInteligência Artificial\nMachine Learning\nPython\nQGIS\nArcGis"
-  },
-  {
-    "objectID": "contato.html#mensagem",
-    "href": "contato.html#mensagem",
-    "title": "Contato",
-    "section": "",
-    "text": "Este portfólio foi desenvolvido como parte das atividades da disciplina PPEC0039 – Estatística e Planejamento de Experimentos, reunindo aplicações práticas em Python voltadas à Engenharia de Transportes.\nColaborações, sugestões e oportunidades de pesquisa são sempre bem-vindas."
-  },
-  {
-    "objectID": "contato.html#e-mail",
-    "href": "contato.html#e-mail",
-    "title": "Contato",
-    "section": "",
-    "text": "vagnerbrandaogeografia@gmail.com\nCanal principal para contato acadêmico e profissional."
-  },
-  {
-    "objectID": "contato.html#telefone",
-    "href": "contato.html#telefone",
-    "title": "Contato",
-    "section": "",
-    "text": "(71) 98844-6919\nDisponível para contatos profissionais e oportunidades de pesquisa."
-  },
-  {
-    "objectID": "contato.html#github",
-    "href": "contato.html#github",
-    "title": "Contato",
-    "section": "",
-    "text": "https://github.com/Vbrandao13\nTodos os notebooks, códigos, materiais da disciplina e projetos desenvolvidos em Python encontram-se disponíveis no repositório."
-  },
-  {
-    "objectID": "contato.html#formação",
-    "href": "contato.html#formação",
-    "title": "Contato",
-    "section": "",
-    "text": "Engenheiro Agrimensor\nAnalista de Sistemas\nMestrando em Engenharia Civil – UFBA\n\nAtuação em Engenharia de Transportes, Geoprocessamento, Ciência de Dados, Estatística Aplicada e Inteligência Artificial."
-  },
-  {
-    "objectID": "contato.html#sobre-este-portfólio",
-    "href": "contato.html#sobre-este-portfólio",
-    "title": "Contato",
-    "section": "",
-    "text": "Este portfólio foi desenvolvido como atividade da disciplina PPEC0039 – Estatística e Planejamento de Experimentos, reunindo notebooks, aplicações em Python, análises estatísticas e resultados voltados à Engenharia de Transportes.\nSeu objetivo é apresentar, de forma organizada e reprodutível, todos os produtos desenvolvidos durante a disciplina."
-  },
-  {
-    "objectID": "contato.html#localização",
-    "href": "contato.html#localização",
-    "title": "Contato",
-    "section": "",
-    "text": "Salvador – Bahia – Brasil\nDisponível para pesquisas, projetos e cooperação acadêmica."
+    "objectID": "index.html#eixos-trabalhados",
+    "href": "index.html#eixos-trabalhados",
+    "title": "Início",
+    "section": "Eixos trabalhados",
+    "text": "Eixos trabalhados\n\n\nEstatística Aplicada\nDistribuição normal, amostragem, Z-score, ANOVA e interpretação de resultados.\n\n\nPython, GitHub e Google Colab\nDesenvolvimento de notebooks reprodutíveis com código, análise e visualização de dados.\n\n\nTransportes\nAplicação dos conceitos estatísticos em problemas de tempo de viagem, mobilidade urbana e transporte público.\n\n\nPublicação Científica\nOrganização dos resultados com Quarto, GitHub, Google Colab e GitHub Pages.\n\n\nProdução da disciplina\nNeste portfólio estão reunidos os principais produtos desenvolvidos ao longo da disciplina: notebooks em Python, gráficos estatísticos, interpretações dos resultados, links para GitHub e Google Colab, além da organização final em uma página publicada com Quarto."
   },
   {
     "objectID": "QMD/notebooks.html",
     "href": "QMD/notebooks.html",
     "title": "Notebooks",
     "section": "",
-    "text": "Esta página reúne os notebooks produzidos durante a disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\n\n\n\nAplicação de teste de hipótese para avaliação do tempo médio de deslocamento em uma rede de transporte.\nGitHub\nGoogle Colab\n\n\n\nAplicação da distribuição normal para análise de tempo de viagem em sistemas de transporte.\nGitHub\nGoogle Colab\n\n\n\nAplicação de técnicas de amostragem ao transporte público urbano.\nGitHub\nGoogle Colab\n\n\n\nAplicação da Análise de Variância para comparação entre grupos.\nGitHub\nGoogle Colab\n\n\n\n\nOs notebooks demonstram a aplicação prática da estatística com Python, conectando os conceitos da disciplina a problemas da Engenharia de Transportes, mobilidade urbana e análise de dados."
+    "text": "Esta página reúne os notebooks produzidos durante a disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\n\n\n\nAplicação de teste de hipótese para avaliação do tempo médio de deslocamento em uma rede de transporte.\nGitHub\nGoogle Colab\n\n\n\nGitHub\nGoogle Colab\n\nGitHub\nGoogle Colab\n\n\nAplicação da Análise de Variância para comparação entre grupos.\nGitHub\nGoogle Colab\n\n\n\n\nOs notebooks demonstram a aplicação prática da estatística com Python, conectando os conceitos da disciplina a problemas da Engenharia de Transportes, mobilidade urbana e análise de dados."
   },
   {
     "objectID": "QMD/notebooks.html#síntese",
