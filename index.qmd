@@ -1,0 +1,58 @@
+---
+title: "Início"
+---
+
+::: {.hero-section}
+::: {.hero-content}
+
+# Vagner S. B. Brandão
+
+## Estatística Aplicada, Transportes e Ciência de Dados.
+
+Engenheiro Agrimensor, Analista de Sistemas e mestrando em Engenharia Civil pela UFBA, com atuação em geoprocessamento, infraestrutura de transportes, análise espacial e aplicações estatísticas com Python.
+
+::: {.hero-buttons}
+[Ver Notebooks](notebooks.qmd){.btn-main}
+[Resultados](resultados.qmd){.btn-light}
+[Sobre o Autor](about.qmd){.btn-light}
+:::
+
+:::
+:::
+
+## Sobre este portfólio
+
+Este site foi desenvolvido como atividade final da disciplina **PPEC0039 – Estatística e Planejamento de Experimentos**.
+
+O objetivo é apresentar, de forma organizada e visualmente clara, os notebooks, análises estatísticas, gráficos e resultados produzidos durante a disciplina, conectando Estatística Aplicada, Engenharia de Transportes e Ciência de Dados.
+
+## Eixos trabalhados
+
+::: {.grid-cards}
+
+::: {.info-card}
+### Estatística Aplicada
+Distribuição normal, amostragem, Z-score, ANOVA e interpretação de resultados.
+:::
+
+::: {.info-card}
+### Python, GitHub e Google Colab
+Desenvolvimento de notebooks reprodutíveis com código, análise e visualização de dados.
+:::
+
+::: {.info-card}
+### Transportes
+Aplicação dos conceitos estatísticos em problemas de tempo de viagem, mobilidade urbana e transporte público.
+:::
+
+::: {.info-card}
+### Publicação Científica
+Organização dos resultados com Quarto, GitHub, Google Colab e GitHub Pages.
+:::
+
+::: {.info-card .wide-card}
+### Produção da disciplina
+Neste portfólio estão reunidos os principais produtos desenvolvidos ao longo da disciplina: notebooks em Python, gráficos estatísticos, interpretações dos resultados, links para GitHub e Google Colab, além da organização final em uma página publicada com Quarto.
+:::
+
+:::

@@ -1,0 +1,107 @@
+---
+title: "Contato"
+---
+
+# Contato
+
+Entre em contato para discussões acadêmicas, pesquisas, desenvolvimento de projetos e colaborações nas áreas de Engenharia de Transportes, Geoprocessamento, Ciência de Dados, Estatística Aplicada e Inteligência Artificial.
+
+::: {.grid-cards}
+
+::: {.info-card}
+## 📧 E-mail
+
+**vagnerbrandaogeografia@gmail.com**
+
+Canal principal para contato acadêmico e profissional.
+
+:::
+
+::: {.info-card}
+## 📱 Telefone
+
+**(71) 98844-6919**
+
+Disponível para contatos profissionais e oportunidades de pesquisa.
+
+:::
+
+::: {.info-card}
+## 🎓 Formação
+
+- Engenheiro Agrimensor
+- Analista de Sistemas
+- Mestrando em Engenharia Civil – UFBA
+
+Atuação em Engenharia de Transportes, Geoprocessamento, Ciência de Dados, Estatística Aplicada e Inteligência Artificial.
+
+:::
+
+::: {.info-card}
+## 🌎 Localização
+
+Salvador – Bahia – Brasil
+
+Disponível para pesquisas, projetos e cooperação acadêmica.
+
+:::
+
+:::
+
+::: {.info-card}
+
+## Áreas de Interesse
+
+- Engenharia de Transportes
+- Geoprocessamento
+- Geotecnologias
+- Sistemas de Informação Geográfica (SIG)
+- Energias Renováveis
+- Ciência de Dados
+- Inteligência Artificial
+- Machine Learning
+- Python
+- QGIS
+- ArcGis
+
+:::
+
+::: {.info-card}
+
+## Sobre este Portfólio
+
+Este portfólio foi desenvolvido como atividade da disciplina **PPEC0039 – Estatística e Planejamento de Experimentos**, reunindo notebooks, aplicações em Python, análises estatísticas e resultados voltados à Engenharia de Transportes.
+
+Seu objetivo é apresentar, de forma organizada e reprodutível, todos os produtos desenvolvidos durante a disciplina.
+
+:::
+
+<br>
+
+<div class="contact-links">
+
+<a class="contact-button" href="mailto:vagnerbrandaogeografia@gmail.com">
+📧 E-mail
+</a>
+
+<a class="contact-button" href="tel:+5571988446919">
+📱 Telefone
+</a>
+
+<a class="contact-button" href="https://github.com/Vbrandao13" target="_blank">
+💻 GitHub
+</a>
+
+<a class="contact-button" href="https://colab.research.google.com/" target="_blank">
+📓 Google Colab
+</a>
+
+<a class="contact-button" href="https://linkedin.com/in/vagner-brandão-94ba0510a" target="_blank">
+💼 LinkedIn
+</a>
+
+<a class="contact-button" href="https://lattes.cnpq.br/6029852782960846" target="_blank">
+🎓 Currículo Lattes
+</a>
+
+</div>

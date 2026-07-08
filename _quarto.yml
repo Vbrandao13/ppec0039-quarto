@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PPEC0039 - Estatística Aplicada"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Início
+      - href: about.qmd
+        text: Sobre
+      - href: disciplina.qmd
+        text: Disciplina
+      - href: notebooks.qmd
+        text: Notebooks
+      - href: resultados.qmd
+        text: Resultados
+      - href: galeria.qmd
+        text: Galeria
+      - href: contato.qmd
+        text: Contato
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full

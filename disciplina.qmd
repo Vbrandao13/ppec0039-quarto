@@ -1,0 +1,90 @@
+---
+title: "Disciplina"
+---
+
+# PPEC0039 – Estatística e Planejamento de Experimentos
+
+::: {.full-card}
+
+## Identificação da disciplina
+**Código:** PPEC0039<br>
+**Nome:** Estatística e Planejamento de Experimentos<br>
+**Carga horária:** 45 horas<br>
+**Modalidade:** Teórico-prática<br>
+**Universidade:** Universidade Federal da Bahia – UFBA<br>
+**Docente responsável:** Prof. Mauro José Alixandrini Jr.<br>
+**Discente Mestrando:** Vagner S. B. Brandão
+
+:::
+
+::: {.full-card}
+
+## Ementa resumida
+
+A disciplina aborda fundamentos de estatística aplicada e planejamento de experimentos, envolvendo medidas de posição, dispersão, probabilidade, distribuições estatísticas, teste de hipóteses, intervalos de confiança, comparação entre médias, regressão, correlação, análise multivariada e utilização de softwares estatísticos.
+
+Também contempla conceitos de experimento, tratamento, unidade experimental, delineamento experimental, princípios básicos da experimentação e controle de qualidade em experimentos.
+
+:::
+
+## Objetivos da disciplina
+
+::: {.grid-cards}
+
+::: {.info-card}
+### Objetivo geral
+Interpretar avaliações estatísticas, diferenciar métodos de avaliação e debater estratégias de abordagem estatística em experimentos de engenharia.
+:::
+
+::: {.info-card}
+### Objetivos específicos
+Compreender a estatística descritiva e inferencial, estimar variáveis com operadores estatísticos e propor abordagens coerentes para avaliação de dados.
+:::
+
+:::
+
+## Conteúdos trabalhados
+
+::: {.grid-cards}
+
+::: {.info-card}
+### Estatística Descritiva
+Média, moda, mediana, quartis, percentis e representação de séries estatísticas.
+:::
+
+::: {.info-card}
+### Dispersão e Erros
+Variância, desvio-padrão, coeficiente de variação, erro padrão da média e propagação de erros.
+:::
+
+::: {.info-card}
+### Probabilidade
+Conceitos básicos, operações, distribuições discretas e contínuas e Teorema do Limite Central.
+:::
+
+::: {.info-card}
+### Inferência Estatística
+Tamanho de amostras, testes de hipótese, teste t, teste F, Tukey e intervalos de confiança.
+:::
+
+::: {.info-card}
+### Planejamento de Experimentos
+Experimento, tratamento, unidade experimental, delineamento experimental e controle de qualidade.
+:::
+
+::: {.info-card}
+### Regressão e Correlação
+Regressão simples, linear, não linear, múltipla, correlação e análise multivariada.
+:::
+
+:::
+
+::: {.full-card}
+
+## Relação com Engenharia de Transportes
+
+No contexto da Engenharia de Transportes, os conteúdos da disciplina permitem analisar dados de mobilidade, tempos de viagem, acessibilidade, conectividade, desempenho operacional e qualidade dos sistemas de transporte.
+
+A estatística aplicada contribui para transformar dados em evidências, apoiando diagnósticos, comparações, modelagens e tomadas de decisão em estudos de infraestrutura e planejamento territorial.
+
+:::

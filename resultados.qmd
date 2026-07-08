@@ -1,0 +1,73 @@
+---
+title: "Resultados"
+---
+
+# Resultados obtidos
+
+Esta página apresenta uma síntese dos principais resultados desenvolvidos nos notebooks da disciplina **PPEC0039 – Estatística e Planejamento de Experimentos**.
+
+::: {.grid-cards}
+
+::: {.info-card}
+
+### Aula 03 — Testes de Hipóteses
+
+Foi aplicado um teste de hipótese para avaliar se o tempo médio de deslocamento observado em uma rede de transporte era superior ao tempo planejado.
+
+**Resultado principal:**  
+A análise permitiu comparar o tempo médio observado com o valor de referência estabelecido no planejamento.
+
+:::
+
+::: {.info-card}
+
+### Aula 04 — Distribuição Normal
+
+Foi utilizada a distribuição normal para analisar o comportamento dos tempos de viagem.
+
+**Resultado principal:**  
+O notebook permitiu calcular probabilidades associadas ao tempo de viagem e visualizar a curva normal com área de probabilidade destacada.
+
+:::
+
+::: {.info-card}
+
+### Aula 09 — Amostragem
+
+Foi realizada uma aplicação de amostragem ao transporte público urbano, comparando população simulada, amostra aleatória simples e amostra estratificada.
+
+**Resultado principal:**  
+A amostragem permitiu estimar indicadores de tempo de viagem e lotação com base em uma parte representativa da população.
+
+:::
+
+::: {.info-card}
+
+### Aula 14 — ANOVA
+
+Foi aplicada a Análise de Variância para comparar médias entre diferentes grupos.
+
+**Resultado principal:**  
+A ANOVA permitiu verificar se existiam diferenças estatisticamente significativas entre os grupos analisados.
+
+:::
+
+:::
+
+::: {.full-card}
+
+## Interpretação geral
+
+Os resultados demonstram que a estatística aplicada pode apoiar análises relacionadas à Engenharia de Transportes, permitindo comparar cenários, avaliar tempos médios de deslocamento, interpretar distribuições de dados, estimar indicadores por amostragem e verificar diferenças entre grupos.
+
+A utilização de Python e notebooks contribuiu para tornar as análises mais organizadas, reprodutíveis e visualmente compreensíveis.
+
+:::
+
+::: {.full-card}
+
+## Contribuição para a formação acadêmica
+
+A construção dos notebooks possibilitou integrar teoria estatística, programação em Python e problemas aplicados à área de transportes. Essa integração fortalece a capacidade de análise crítica, interpretação de dados e comunicação de resultados técnicos em ambiente acadêmico e profissional.
+
+:::

@@ -1,0 +1,74 @@
+---
+title: "Sobre"
+---
+
+::: {.profile-card}
+
+::: {.profile-photo}
+![](imagens/foto-vagner.jpg.jpeg)
+:::
+
+::: {.profile-info}
+
+# Vagner Santana Bispo Brandão
+
+**Engenheiro Agrimensor | Analista de Sistemas | Mestrando em Engenharia Civil – UFBA**
+
+Sou Engenheiro Agrimensor, Analista de Sistemas e Mestrando em Engenharia Civil pela Universidade Federal da Bahia (UFBA), com atuação em geoprocessamento, infraestrutura de transportes, análise espacial e aplicações estatísticas utilizando Python.
+
+Possuo experiência nas áreas pública e privada, desenvolvendo soluções voltadas para análise espacial, infraestrutura viária, sistemas de informação, suporte à tomada de decisão e desenvolvimento de aplicações.
+
+No âmbito acadêmico, atuo junto ao **CETRAM/UFBA**, desenvolvendo pesquisas relacionadas à Ciência de Dados, Inteligência Artificial, GeoIA, Transportes, Estatística Aplicada e Geoprocessamento.
+
+:::
+
+:::
+
+## Principais áreas de atuação
+
+::: {.grid-cards}
+
+::: {.info-card}
+### Geoprocessamento
+Aplicação de técnicas de análise espacial, SIG e QGIS para estudos territoriais.
+:::
+
+::: {.info-card}
+### Transportes
+Estudos relacionados à mobilidade urbana, acessibilidade e infraestrutura de transportes.
+:::
+
+::: {.info-card}
+### Estatística Aplicada
+Uso de métodos estatísticos para análise, interpretação e visualização de dados.
+:::
+
+::: {.info-card}
+### Ciência de Dados
+Aplicação de Python, notebooks, Google Colab e organização reprodutível de análises.
+:::
+
+:::
+
+::: {.text-card}
+
+## Linhas de pesquisa
+
+- Acessibilidade e mobilidade urbana;
+- Infraestrutura de transportes;
+- Redes de transporte;
+- Geotecnologias aplicadas;
+- Energias Renováveis;
+- Inteligência Artificial Geoespacial;
+- Aprendizado de máquina aplicado aos transportes;
+- Planejamento territorial orientado por dados.
+
+:::
+
+::: {.text-card}
+
+## Objetivo profissional
+
+Desenvolver soluções que integrem Engenharia, Transportes, Geotecnologias, Estatística e Inteligência Artificial, contribuindo para pesquisas científicas e para o planejamento territorial baseado em evidências.
+
+:::
