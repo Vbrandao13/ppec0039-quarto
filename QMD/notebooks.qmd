@@ -38,9 +38,13 @@ Aplicação da distribuição normal para análise do tempo de viagem em sistema
 
 Aplicação de técnicas de amostragem ao transporte público urbano.
 
-<a href="https://github.com/Vbrandao13/ppec-0039-estatistica-aplicada/blob/main/aulas/aula-09/c%C3%B3digos/amostragem_transporte_publico.ipynb" target="_blank" class="btn-github">Ver no GitHub</a>
+<a href="https://github.com/Vbrandao13/ppec-0039-estatistica-aplicada/blob/main/aulas/aula-09/codigos/amostragem_transporte_publico.ipynb" target="_blank" class="btn-github">
+Ver no GitHub
+</a>
 
-<a href="https://colab.research.google.com/github/Vbrandao13/ppec-0039-estatistica-aplicada/blob/main/aulas/aula-09/c%C3%B3digos/amostragem_transporte_publico.ipynb" target="_blank" class="btn-colab">Abrir no Google Colab</a>
+<a href="https://colab.research.google.com/github/Vbrandao13/ppec-0039-estatistica-aplicada/blob/main/aulas/aula-09/codigos/amostragem_transporte_publico.ipynb" target="_blank" class="btn-colab">
+Abrir no Google Colab
+</a>
 
 :::
 
