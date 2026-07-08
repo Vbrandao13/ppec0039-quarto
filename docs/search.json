@@ -193,13 +193,13 @@
     "href": "QMD/notebooks.html",
     "title": "Notebooks",
     "section": "",
-    "text": "Esta página reúne os notebooks produzidos durante a disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\n\n\n\nAplicação de teste de hipótese para avaliação do tempo médio de deslocamento em uma rede de transporte.\nVer no GitHub\nAbrir no Google Colab\n\n\n\nAplicação da distribuição normal para análise do tempo de viagem em sistemas de transporte.\nVer no GitHub\nAbrir no Google Colab\n\n\n\nAplicação de técnicas de amostragem ao transporte público urbano.\nVer no GitHub\nAbrir no Google Colab\n\n\n\nAplicação da Análise de Variância para comparação entre grupos.\nVer no GitHub\nAbrir no Google Colab\n\n\n\n\nOs notebooks demonstram a aplicação prática da estatística com Python, conectando os conceitos da disciplina a problemas da Engenharia de Transportes, mobilidade urbana e análise de dados."
+    "text": "Esta página reúne os notebooks produzidos durante a disciplina PPEC0039 – Estatística e Planejamento de Experimentos.\n\n\n\nAplicação de teste de hipótese para avaliação do tempo médio de deslocamento em uma rede de transporte.\n Ver no GitHub \n Abrir no Google Colab \n\n\n\nAplicação da distribuição normal para análise do tempo de viagem.\n Ver no GitHub \n Abrir no Google Colab \n\n\n\nAplicação de técnicas de amostragem ao transporte público urbano.\n Ver no GitHub \n Abrir no Google Colab \n\n\n\nAplicação da Análise de Variância para comparação entre grupos.\n Ver no GitHub \n Abrir no Google Colab \n\n\n\n\nOs notebooks demonstram a aplicação prática da Estatística com Python, conectando os conceitos da disciplina a problemas da Engenharia de Transportes, mobilidade urbana e análise de dados."
   },
   {
     "objectID": "QMD/notebooks.html#síntese",
     "href": "QMD/notebooks.html#síntese",
     "title": "Notebooks",
     "section": "",
-    "text": "Os notebooks demonstram a aplicação prática da estatística com Python, conectando os conceitos da disciplina a problemas da Engenharia de Transportes, mobilidade urbana e análise de dados."
+    "text": "Os notebooks demonstram a aplicação prática da Estatística com Python, conectando os conceitos da disciplina a problemas da Engenharia de Transportes, mobilidade urbana e análise de dados."
   }
 ]
